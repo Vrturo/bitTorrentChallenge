@@ -14,4 +14,5 @@ Page has graceful loading states.
 
 <img src="imgs/BTNowCodingChallenge.png">
 
-## Link to Challenge: Vrturo.io/BitTorrentChallenge
+## Link to Challenge:
+Vrturo.io/BitTorrentChallenge

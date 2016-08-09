@@ -13,3 +13,5 @@ Ignore "Show All" and the play counts.
 Page has graceful loading states.
 
 <img src="imgs/BTNowCodingChallenge.png">
+
+## Link to Challenge: Vrturo.io/BitTorrentChallenge

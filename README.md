@@ -12,7 +12,9 @@ When the user clicks on a tag, it should navigate to the tag search results. (Th
 Ignore "Show All" and the play counts.
 Page has graceful loading states.
 
+4) Must turn off same-origin restrictions to run app
+
 <img src="imgs/BTNowCodingChallenge.png">
 
-## Link to Challenge:
-http://Vrturo.io/BitTorrentChallenge
+## Link to Completed Challenge:
+http://Vrturo.io/bitTorrentChallenge
